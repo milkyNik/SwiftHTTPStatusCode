@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		20CDB33B298B0FF80098CFFF /* SwiftHTTPStatusCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CDB33A298B0FF80098CFFF /* SwiftHTTPStatusCode.swift */; };
+		20CDB35B298B279D0098CFFF /* SwiftHTTPStatusCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CDB35A298B279D0098CFFF /* SwiftHTTPStatusCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		20CDB330298B0F5C0098CFFF /* SwiftHTTPStatusCode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftHTTPStatusCode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		20CDB33A298B0FF80098CFFF /* SwiftHTTPStatusCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftHTTPStatusCode.swift; sourceTree = "<group>"; };
+		20CDB35A298B279D0098CFFF /* SwiftHTTPStatusCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftHTTPStatusCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,7 +29,7 @@
 		20CDB326298B0F5C0098CFFF = {
 			isa = PBXGroup;
 			children = (
-				20CDB332298B0F5C0098CFFF /* SwiftHTTPStatusCode */,
+				20CDB359298B279D0098CFFF /* Sources */,
 				20CDB331298B0F5C0098CFFF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -42,12 +42,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		20CDB332298B0F5C0098CFFF /* SwiftHTTPStatusCode */ = {
+		20CDB359298B279D0098CFFF /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				20CDB33A298B0FF80098CFFF /* SwiftHTTPStatusCode.swift */,
+				20CDB35A298B279D0098CFFF /* SwiftHTTPStatusCode.swift */,
 			);
-			path = SwiftHTTPStatusCode;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,7 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20CDB33B298B0FF80098CFFF /* SwiftHTTPStatusCode.swift in Sources */,
+				20CDB35B298B279D0098CFFF /* SwiftHTTPStatusCode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

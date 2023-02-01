@@ -85,15 +85,15 @@ public extension SwiftHTTPStatusCode {
     var type: String {
         switch self.rawValue {
         case 100...199:
-            return "Informational"
+            return "Informational response"
         case 200...299:
-            return "Success"
+            return "Successful response"
         case 300...399:
-            return "Redirection"
+            return "Redirection message"
         case 400...499:
-            return "Client Error"
+            return "Client error response"
         case 500...599:
-            return "Server Error"
+            return "Server error response"
         default:
             return "Undefined type"
         }

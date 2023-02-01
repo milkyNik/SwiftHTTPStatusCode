@@ -8,8 +8,8 @@ Pod::Spec.new do |spec|
   spec.source                = { :git => "https://github.com/milkyNik/SwiftHTTPStatusCode.git", :tag => spec.version }
   spec.social_media_url      = 'http://twitter.com/fxnik'
     
-  spec.ios.deployment_target = "16.0"
-  spec.osx.deployment_target = "13.0"
+  spec.ios.deployment_target = "15.0"
+  spec.osx.deployment_target = "12.0"
   
   spec.frameworks            = 'Foundation'
   spec.source_files          = 'Sources/*'
