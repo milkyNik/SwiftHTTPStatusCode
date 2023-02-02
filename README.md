@@ -1,4 +1,4 @@
 # SwiftHTTPStatusCode
-[![Pod License](http://img.shields.io/cocoapods/l/HTTPStatusCodes.svg)](http://opensource.org/licenses/MIT)
-<!-- [![Pod Version](http://img.shields.io/cocoapods/v/HTTPStatusCodes.svg)](http://cocoadocs.org/docsets/HTTPStatusCodes/) -->
+[![Pod License](http://img.shields.io/cocoapods/l/SwiftHTTPStatusCode.svg)](http://opensource.org/licenses/MIT)
+[![Pod Version](http://img.shields.io/cocoapods/v/SwiftHTTPStatusCode.svg)](http://cocoadocs.org/docsets/SwiftHTTPStatusCode/)
 
